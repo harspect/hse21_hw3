@@ -5,13 +5,13 @@
 Ссылка на Google Сolab: https://colab.research.google.com/drive/1K-IA2jcXAyNSq15rMeFvYHQl3CUGZXmR
 
 ### Отчёт multiQC
-Ссылка: 
+Ссылка: https://github.com/harspect/hse21_hw3/blob/3cf84bab4d05cd5f7e2adff84e717558adb01745/multiqc_report.html
 
-![](img/#.png)
-![](img/#.png)
-![](img/#.png)
-![](img/#.png)
-![](img/#.png)
+![](img/1.png)
+![](img/2.png)
+![](img/3.png)
+![](img/4.png)
+![](img/5.png)
 
 ### Таблица
 Sample ID | тип | __no_feature | __ambiguous | уникально-картированные | общее кол-во |
