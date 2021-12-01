@@ -24,7 +24,7 @@ SRR3414636 | control | 1332692 | 735108 | 17825380 | 15757580 |
 SRR3414637 | control | 1397650 | 710230 | 17844858 | 15736978 |
 
 ## Задание №2
-Ссылка на Google colab на R:
+Ссылка на Google colab на R: https://colab.research.google.com/drive/1vO2jcpgGv1cWoLopudMZF_QcAleG2AAu
 
 ### MA-plot
 ![](img/#.png)
