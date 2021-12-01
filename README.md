@@ -2,7 +2,7 @@
 ###### Поморцев Леонид 2 группа
 
 ## Задание №1
-Ссылка на Google Сolab: https://colab.research.google.com/drive/1K-IA2jcXAyNSq15rMeFvYHQl3CUGZXmR#scrollTo=uyMqwkQ7ALQZ
+Ссылка на Google Сolab: https://colab.research.google.com/drive/1K-IA2jcXAyNSq15rMeFvYHQl3CUGZXmR
 
 ### Отчёт multiQC
 Ссылка: 
