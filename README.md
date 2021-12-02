@@ -27,12 +27,12 @@ SRR3414637 | control | 1397650 | 710230 | 17844858 | 15736978 |
 Ссылка на Google colab на R: https://colab.research.google.com/drive/1vO2jcpgGv1cWoLopudMZF_QcAleG2AAu
 
 ### MA-plot
-![](img/#.png)
+![](img/10.png)
 
 ### Тепловая карта
-![](img/#.png)
+![](img/9.png)
 
-### Самые важные гены
-![](img/#.png)
-![](img/#.png)
-![](img/#.png)
+### Графики со значениями "Normalized counts" в контрольных и перепрограммированных образцах
+![](img/8.png)
+![](img/7.png)
+![](img/6.png)
